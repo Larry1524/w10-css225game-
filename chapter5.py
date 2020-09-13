@@ -1,0 +1,20 @@
+import finalbattle
+import time
+def chapter5():
+    print("you arrive at the town and everyone greets you all")
+    time.sleep(5)
+    print("time passes and you see your brother limp into town")
+    time.sleep(4)
+    print("Dave: She was strong but I did it.")
+    time.sleep(3)
+    print("*everyone hears a roar*")
+    time.sleep(5)
+    print("Elder: She's still alive! everyone run!")
+    time.sleep(1)
+    print("Dave: Impossible...")
+    time.sleep(2)
+    print("The monster mother steps into town, she is way larger than the one from before")
+    time.sleep(2)
+    print("Monster Mother: You tried to beat me and you failed. I will eat you all to avenge my son")
+    time.sleep(2)
+    finalbattle.finalbattle()
