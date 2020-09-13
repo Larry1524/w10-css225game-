@@ -1,5 +1,12 @@
 # w10-css225game-
 
+This project is the culmination of ten tedious weeks of hard work. This will demonstrate my mastery of python so far as well as show any soft skills that I may have acquired along the way. For the final project of the css225 course the students must create a game using all of their skills that they learned over the ten-week period in regard to python, debugging, and coding in general. This game must consist of a minimum of 5 chapters and must effectively demonstrate (at the absolute very least) partial proficiency with python. In this project I look to demonstrate just that.
+  
+Maintaining software products is just as important as making them. If a product isn’t maintained it becomes outdates and eventually is rendered useless. Some simple ways to maintain software products would be to have pseudo-code on stand-by, this will allow you to know what the code is supposed to do in simpler terms just in case it needs to be adjusted. Another piece of advice I’d give would be to try to refine it as much as possible and even test new methods on that code; since python just as much as a language as spoken dialect there are multiple ways to say (code) things and it may be simpler or harder depending on the route you take. Debugging is very important, constantly run your code so you can see if there are any errors that can be fixed big or small, This determines whether your code will be able to run to it’s full potential and has a direct effect on the overall usefulness of the code.
+
+
+
+
 #Where is code is hosted? The code is hosted on any platform that can support python. In this case, Github and PythonAnywhere
 #Are there any external services? There aren't any external services
 #Languages and Technologies? Python(English), A PC, a IDE, Python 3.8
